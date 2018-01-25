@@ -1,0 +1,450 @@
+北京今天的天气怎么样
+[{city: 北京, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 北京, action: query, entry: 1, condition: [c_3]}]
+北京今天温度
+[{city: 北京, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 北京, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+北京明天的天气好吗
+[{city: 北京, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 北京, action: query, entry: 1, condition: [c_3]}]
+查北京明天的天气
+[{city: 北京, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 北京, action: query, entry: 1, condition: [c_3]}]
+北京明天是晴天吗
+[{city: 北京, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 北京, action: query, entry: 0, condition: [c_0]}]
+天津今天的天气怎么样
+[{city: 天津, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 天津, action: query, entry: 1, condition: [c_3]}]
+天津今天温度
+[{city: 天津, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 天津, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+天津明天的天气好吗
+[{city: 天津, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 天津, action: query, entry: 1, condition: [c_3]}]
+查天津明天的天气
+[{city: 天津, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 天津, action: query, entry: 1, condition: [c_3]}]
+天津明天是晴天吗
+[{city: 天津, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 天津, action: query, entry: 0, condition: [c_0]}]
+上海今天的天气怎么样
+[{city: 上海, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 上海, action: query, entry: 1, condition: [c_3]}]
+上海今天温度
+[{city: 上海, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 上海, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+上海明天的天气好吗
+[{city: 上海, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 上海, action: query, entry: 1, condition: [c_3]}]
+查上海明天的天气
+[{city: 上海, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 上海, action: query, entry: 1, condition: [c_3]}]
+上海明天是晴天吗
+[{city: 上海, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 上海, action: query, entry: 0, condition: [c_0]}]
+重庆今天的天气怎么样
+[{city: 重庆, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 重庆, action: query, entry: 1, condition: [c_3]}]
+重庆今天温度
+[{city: 重庆, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 重庆, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+重庆明天的天气好吗
+[{city: 重庆, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 重庆, action: query, entry: 1, condition: [c_3]}]
+查重庆明天的天气
+[{city: 重庆, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 重庆, action: query, entry: 1, condition: [c_3]}]
+重庆明天是晴天吗
+[{city: 重庆, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 重庆, action: query, entry: 0, condition: [c_0]}]
+石家庄今天的天气怎么样
+[{city: 石家庄, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 石家庄, action: query, entry: 1, condition: [c_3]}]
+石家庄今天温度
+[{city: 石家庄, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 石家庄, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+石家庄明天的天气好吗
+[{city: 石家庄, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 石家庄, action: query, entry: 1, condition: [c_3]}]
+查石家庄明天的天气
+[{city: 石家庄, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 石家庄, action: query, entry: 1, condition: [c_3]}]
+石家庄明天是晴天吗
+[{city: 石家庄, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 石家庄, action: query, entry: 0, condition: [c_0]}]
+郑州今天的天气怎么样
+[{city: 郑州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 郑州, action: query, entry: 1, condition: [c_3]}]
+郑州今天温度
+[{city: 郑州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 郑州, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+郑州明天的天气好吗
+[{city: 郑州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 郑州, action: query, entry: 1, condition: [c_3]}]
+查郑州明天的天气
+[{city: 郑州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 郑州, action: query, entry: 1, condition: [c_3]}]
+郑州明天是晴天吗
+[{city: 郑州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 郑州, action: query, entry: 0, condition: [c_0]}]
+武汉今天的天气怎么样
+[{city: 武汉, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 武汉, action: query, entry: 1, condition: [c_3]}]
+武汉今天温度
+[{city: 武汉, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 武汉, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+武汉明天的天气好吗
+[{city: 武汉, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 武汉, action: query, entry: 1, condition: [c_3]}]
+查武汉明天的天气
+[{city: 武汉, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 武汉, action: query, entry: 1, condition: [c_3]}]
+武汉明天是晴天吗
+[{city: 武汉, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 武汉, action: query, entry: 0, condition: [c_0]}]
+长沙今天的天气怎么样
+[{city: 长沙, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 长沙, conversation: isover, place: 长沙, action: query, entry: 1, condition: [c_3]}]
+长沙今天温度
+[{city: 长沙, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 长沙, conversation: isover, place: 长沙, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+长沙明天的天气好吗
+[{city: 长沙, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 长沙, conversation: isover, place: 长沙, action: query, entry: 1, condition: [c_3]}]
+查长沙明天的天气
+[{city: 长沙, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 长沙, conversation: isover, place: 长沙, action: query, entry: 0, condition: [c_1]}]
+长沙明天是晴天吗
+[{city: 长沙, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 长沙, conversation: isover, place: 长沙, action: query, entry: 0, condition: [c_0]}]
+南京今天的天气怎么样
+[{city: 南京, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 南京, action: query, entry: 1, condition: [c_3]}]
+南京今天温度
+[{city: 南京, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 南京, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+南京明天的天气好吗
+[{city: 南京, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 南京, action: query, entry: 1, condition: [c_3]}]
+查南京明天的天气
+[{city: 南京, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 南京, action: query, entry: 1, condition: [c_3]}]
+南京明天是晴天吗
+[{city: 南京, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 南京, action: query, entry: 0, condition: [c_0]}]
+南昌今天的天气怎么样
+[{city: 南昌, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 南昌, conversation: isover, place: 南昌, action: query, entry: 1, condition: [c_3]}]
+南昌今天温度
+[{city: 南昌, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 南昌, conversation: isover, place: 南昌, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+南昌明天的天气好吗
+[{city: 南昌, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 南昌, conversation: isover, place: 南昌, action: query, entry: 1, condition: [c_3]}]
+查南昌明天的天气
+[{city: 南昌, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 南昌, conversation: isover, place: 南昌, action: query, entry: 0, condition: [c_1]}]
+南昌明天是晴天吗
+[{city: 南昌, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 南昌, conversation: isover, place: 南昌, action: query, entry: 0, condition: [c_0]}]
+沈阳今天的天气怎么样
+[{city: 沈阳, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 沈阳, action: query, entry: 1, condition: [c_3]}]
+沈阳今天温度
+[{city: 沈阳, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 沈阳, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+沈阳明天的天气好吗
+[{city: 沈阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 阳明, conversation: isover, place: 阳明, action: query, entry: 1, condition: [c_3]}]
+查沈阳明天的天气
+[{city: 沈阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 阳明, conversation: isover, place: 阳明, action: query, entry: 0, condition: [c_1]}]
+沈阳明天是晴天吗
+[{city: 沈阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 阳明, conversation: isover, place: 阳明, action: query, entry: 0, condition: [c_0]}]
+长春今天的天气怎么样
+[{city: 长春, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 长春, action: query, entry: 1, condition: [c_3]}]
+长春今天温度
+[{city: 长春, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 长春, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+长春明天的天气好吗
+[{city: 长春, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 长春, action: query, entry: 1, condition: [c_3]}]
+查长春明天的天气
+[{city: 长春, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 长春, action: query, entry: 1, condition: [c_3]}]
+长春明天是晴天吗
+[{city: 长春, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 长春, action: query, entry: 0, condition: [c_0]}]
+哈尔滨今天的天气怎么样
+[{confidence: 99.00990099009901, date: 2017126, domain: weather, conversation: isover, action: query, entry: 1, condition: [c_3]}]
+哈尔滨今天温度
+[{confidence: 99.00990099009901, date: 2017126, domain: weather, conversation: isover, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+哈尔滨明天的天气好吗
+[{confidence: 99.00990099009901, date: 2017127, domain: weather, conversation: isover, action: query, entry: 1, condition: [c_3]}]
+查哈尔滨明天的天气
+[{confidence: 99.00990099009901, date: 2017127, domain: weather, conversation: isover, action: query, entry: 1, condition: [c_3]}]
+哈尔滨明天是晴天吗
+[{confidence: 99.00990099009901, date: 2017127, domain: weather, conversation: isover, action: query, entry: 0, condition: [c_0]}]
+西安今天的天气怎么样
+[{city: 西安, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 西安, conversation: isover, place: 西安, action: query, entry: 1, condition: [c_3]}]
+西安今天温度
+[{city: 西安, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 西安, conversation: isover, place: 西安, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+西安明天的天气好吗
+[{city: 西安, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 西安, conversation: isover, place: 西安, action: query, entry: 1, condition: [c_3]}]
+查西安明天的天气
+[{city: 西安, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 西安, conversation: isover, place: 西安, action: query, entry: 0, condition: [c_1]}]
+西安明天是晴天吗
+[{city: 西安, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 西安, conversation: isover, place: 西安, action: query, entry: 0, condition: [c_0]}]
+太原今天的天气怎么样
+[{city: 太原, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 太原, action: query, entry: 1, condition: [c_3]}]
+太原今天温度
+[{city: 太原, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 太原, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+太原明天的天气好吗
+[{city: 太原, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 太原, action: query, entry: 1, condition: [c_3]}]
+查太原明天的天气
+[{city: 太原, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 太原, action: query, entry: 1, condition: [c_3]}]
+太原明天是晴天吗
+[{city: 太原, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 太原, action: query, entry: 0, condition: [c_0]}]
+济南今天的天气怎么样
+[{city: 济南, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 济南, action: query, entry: 1, condition: [c_3]}]
+济南今天温度
+[{city: 济南, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 济南, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+济南明天的天气好吗
+[{city: 济南, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 南明, conversation: isover, place: 南明, action: query, entry: 1, condition: [c_3]}]
+查济南明天的天气
+[{city: 济南, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 南明, conversation: isover, place: 南明, action: query, entry: 0, condition: [c_1]}]
+济南明天是晴天吗
+[{city: 济南, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 南明, conversation: isover, place: 南明, action: query, entry: 0, condition: [c_0]}]
+成都今天的天气怎么样
+[{city: 成都, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 成都, action: query, entry: 1, condition: [c_3]}]
+成都今天温度
+[{city: 成都, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 成都, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+成都明天的天气好吗
+[{city: 成都, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 成都, action: query, entry: 1, condition: [c_3]}]
+查成都明天的天气
+[{city: 成都, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 成都, action: query, entry: 1, condition: [c_3]}]
+成都明天是晴天吗
+[{city: 成都, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 成都, action: query, entry: 0, condition: [c_0]}]
+西宁今天的天气怎么样
+[{city: 西宁, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 西宁, action: query, entry: 1, condition: [c_3]}]
+西宁今天温度
+[{city: 西宁, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 西宁, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+西宁明天的天气好吗
+[{city: 西宁, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 宁明, conversation: isover, place: 宁明, action: query, entry: 1, condition: [c_3]}]
+查西宁明天的天气
+[{city: 西宁, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 宁明, conversation: isover, place: 宁明, action: query, entry: 0, condition: [c_1]}]
+西宁明天是晴天吗
+[{city: 西宁, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 宁明, conversation: isover, place: 宁明, action: query, entry: 0, condition: [c_0]}]
+合肥今天的天气怎么样
+[{city: 合肥, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 合肥, action: query, entry: 1, condition: [c_3]}]
+合肥今天温度
+[{city: 合肥, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 合肥, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+合肥明天的天气好吗
+[{city: 合肥, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 合肥, action: query, entry: 1, condition: [c_3]}]
+查合肥明天的天气
+[{city: 合肥, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 合肥, action: query, entry: 1, condition: [c_3]}]
+合肥明天是晴天吗
+[{city: 合肥, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 合肥, action: query, entry: 0, condition: [c_0]}]
+海口今天的天气怎么样
+[{city: 海口, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 海口, action: query, entry: 1, condition: [c_3]}]
+海口今天温度
+[{city: 海口, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 海口, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+海口明天的天气好吗
+[{city: 海口, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 海口, action: query, entry: 1, condition: [c_3]}]
+查海口明天的天气
+[{city: 海口, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 海口, action: query, entry: 1, condition: [c_3]}]
+海口明天是晴天吗
+[{city: 海口, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 海口, action: query, entry: 0, condition: [c_0]}]
+广州今天的天气怎么样
+[{city: 广州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 广州, action: query, entry: 1, condition: [c_3]}]
+广州今天温度
+[{city: 广州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 广州, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+广州明天的天气好吗
+[{city: 广州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 广州, action: query, entry: 1, condition: [c_3]}]
+查广州明天的天气
+[{city: 广州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 广州, action: query, entry: 1, condition: [c_3]}]
+广州明天是晴天吗
+[{city: 广州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 广州, action: query, entry: 0, condition: [c_0]}]
+贵阳今天的天气怎么样
+[{city: 贵阳, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 贵阳, action: query, entry: 1, condition: [c_3]}]
+贵阳今天温度
+[{city: 贵阳, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 贵阳, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+贵阳明天的天气好吗
+[{city: 贵阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 阳明, conversation: isover, place: 阳明, action: query, entry: 1, condition: [c_3]}]
+查贵阳明天的天气
+[{city: 贵阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 阳明, conversation: isover, place: 阳明, action: query, entry: 0, condition: [c_1]}]
+贵阳明天是晴天吗
+[{city: 贵阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 阳明, conversation: isover, place: 阳明, action: query, entry: 0, condition: [c_0]}]
+杭州今天的天气怎么样
+[{city: 杭州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 杭州, action: query, entry: 1, condition: [c_3]}]
+杭州今天温度
+[{city: 杭州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 杭州, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+杭州明天的天气好吗
+[{city: 杭州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 杭州, action: query, entry: 1, condition: [c_3]}]
+查杭州明天的天气
+[{city: 杭州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 杭州, action: query, entry: 1, condition: [c_3]}]
+杭州明天是晴天吗
+[{city: 杭州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 杭州, action: query, entry: 0, condition: [c_0]}]
+福州今天的天气怎么样
+[{city: 福州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 福州, action: query, entry: 1, condition: [c_3]}]
+福州今天温度
+[{city: 福州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 福州, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+福州明天的天气好吗
+[{city: 福州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 福州, action: query, entry: 1, condition: [c_3]}]
+查福州明天的天气
+[{city: 福州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 福州, action: query, entry: 1, condition: [c_3]}]
+福州明天是晴天吗
+[{city: 福州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 福州, action: query, entry: 0, condition: [c_0]}]
+台北今天的天气怎么样
+[{city: 台北, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 台北, action: query, entry: 1, condition: [c_3]}]
+台北今天温度
+[{city: 台北, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 台北, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+台北明天的天气好吗
+[{city: 台北, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 台北, action: query, entry: 1, condition: [c_3]}]
+查台北明天的天气
+[{city: 台北, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 台北, action: query, entry: 1, condition: [c_3]}]
+台北明天是晴天吗
+[{city: 台北, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 台北, action: query, entry: 0, condition: [c_0]}]
+兰州今天的天气怎么样
+[{city: 兰州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 兰州, action: query, entry: 1, condition: [c_3]}]
+兰州今天温度
+[{city: 兰州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 兰州, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+兰州明天的天气好吗
+[{city: 兰州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 兰州, action: query, entry: 1, condition: [c_3]}]
+查兰州明天的天气
+[{city: 兰州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 兰州, action: query, entry: 1, condition: [c_3]}]
+兰州明天是晴天吗
+[{city: 兰州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 兰州, action: query, entry: 0, condition: [c_0]}]
+昆明今天的天气怎么样
+[{city: 昆明, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 昆明, action: query, entry: 1, condition: [c_3]}]
+昆明今天温度
+[{city: 昆明, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 昆明, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+昆明明天的天气好吗
+[{city: 昆明, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 昆明, action: query, entry: 1, condition: [c_3]}]
+查昆明明天的天气
+[{city: 昆明, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 昆明, action: query, entry: 1, condition: [c_3]}]
+昆明明天是晴天吗
+[{city: 昆明, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 昆明, action: query, entry: 0, condition: [c_0]}]
+拉萨今天的天气怎么样
+[{city: 拉萨, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 拉萨, action: query, entry: 1, condition: [c_3]}]
+拉萨今天温度
+[{city: 拉萨, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 拉萨, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+拉萨明天的天气好吗
+[{city: 拉萨, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 拉萨, action: query, entry: 1, condition: [c_3]}]
+查拉萨明天的天气
+[{city: 拉萨, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 拉萨, action: query, entry: 1, condition: [c_3]}]
+拉萨明天是晴天吗
+[{city: 拉萨, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 拉萨, action: query, entry: 0, condition: [c_0]}]
+银川今天的天气怎么样
+[{city: 银川, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 银川, action: query, entry: 1, condition: [c_3]}]
+银川今天温度
+[{city: 银川, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 银川, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+银川明天的天气好吗
+[{city: 银川, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 银川, action: query, entry: 1, condition: [c_3]}]
+查银川明天的天气
+[{city: 银川, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 银川, action: query, entry: 1, condition: [c_3]}]
+银川明天是晴天吗
+[{city: 银川, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 银川, action: query, entry: 0, condition: [c_0]}]
+南宁今天的天气怎么样
+[{city: 南宁, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 南宁, action: query, entry: 1, condition: [c_3]}]
+南宁今天温度
+[{city: 南宁, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 南宁, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+南宁明天的天气好吗
+[{city: 南宁, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 宁明, conversation: isover, place: 宁明, action: query, entry: 1, condition: [c_3]}]
+查南宁明天的天气
+[{city: 南宁, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 宁明, conversation: isover, place: 宁明, action: query, entry: 0, condition: [c_1]}]
+南宁明天是晴天吗
+[{city: 南宁, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 宁明, conversation: isover, place: 宁明, action: query, entry: 0, condition: [c_0]}]
+乌鲁木齐今天的天气怎么样
+[{city: 乌鲁木齐, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 乌鲁木齐, conversation: isover, place: 乌鲁木齐, action: query, entry: 0, condition: [c_1]}]
+乌鲁木齐今天温度
+[{city: 乌鲁木齐, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 乌鲁木齐, conversation: isover, place: 乌鲁木齐, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+乌鲁木齐明天的天气好吗
+[{city: 乌鲁木齐, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 乌鲁木齐, conversation: isover, place: 乌鲁木齐, action: query, entry: 0, condition: [c_1]}]
+查乌鲁木齐明天的天气
+[{city: 乌鲁木齐, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 乌鲁木齐, conversation: isover, place: 乌鲁木齐, action: query, entry: 0, condition: [c_1]}]
+乌鲁木齐明天是晴天吗
+[{city: 乌鲁木齐, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 乌鲁木齐, conversation: isover, place: 乌鲁木齐, action: query, entry: 0, condition: [c_0]}]
+呼和浩特今天的天气怎么样
+[{city: 呼和浩特, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 呼和浩特, action: query, entry: 1, condition: [c_3]}]
+呼和浩特今天温度
+[{city: 呼和浩特, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 呼和浩特, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+呼和浩特明天的天气好吗
+[{city: 呼和浩特, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 呼和浩特, action: query, entry: 1, condition: [c_3]}]
+查呼和浩特明天的天气
+[{city: 呼和浩特, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 呼和浩特, action: query, entry: 1, condition: [c_3]}]
+呼和浩特明天是晴天吗
+[{city: 呼和浩特, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 呼和浩特, action: query, entry: 0, condition: [c_0]}]
+大连今天的天气怎么样
+[{city: 大连, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 大连, action: query, entry: 1, condition: [c_3]}]
+大连今天温度
+[{city: 大连, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 大连, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+大连明天的天气好吗
+[{city: 大连, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 大连, action: query, entry: 1, condition: [c_3]}]
+查大连明天的天气
+[{city: 大连, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 大连, action: query, entry: 1, condition: [c_3]}]
+大连明天是晴天吗
+[{city: 大连, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 大连, action: query, entry: 0, condition: [c_0]}]
+抚顺今天的天气怎么样
+[{city: 抚顺, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 抚顺, conversation: isover, place: 抚顺, action: query, entry: 1, condition: [c_3]}]
+抚顺今天温度
+[{city: 抚顺, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 抚顺, conversation: isover, place: 抚顺, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+抚顺明天的天气好吗
+[{city: 抚顺, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 抚顺, conversation: isover, place: 抚顺, action: query, entry: 1, condition: [c_3]}]
+查抚顺明天的天气
+[{city: 抚顺, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 抚顺, conversation: isover, place: 抚顺, action: query, entry: 0, condition: [c_1]}]
+抚顺明天是晴天吗
+[{city: 抚顺, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 抚顺, conversation: isover, place: 抚顺, action: query, entry: 0, condition: [c_0]}]
+鞍山今天的天气怎么样
+[{city: 鞍山, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 鞍山, action: query, entry: 1, condition: [c_3]}]
+鞍山今天温度
+[{city: 鞍山, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 鞍山, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+鞍山明天的天气好吗
+[{city: 鞍山, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 鞍山, action: query, entry: 1, condition: [c_3]}]
+查鞍山明天的天气
+[{city: 鞍山, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 鞍山, action: query, entry: 1, condition: [c_3]}]
+鞍山明天是晴天吗
+[{city: 鞍山, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 鞍山, action: query, entry: 0, condition: [c_0]}]
+辽阳今天的天气怎么样
+[{city: 辽阳, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 辽阳, conversation: isover, place: 辽阳, action: query, entry: 1, condition: [c_3]}]
+辽阳今天温度
+[{city: 辽阳, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 辽阳, conversation: isover, place: 辽阳, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+辽阳明天的天气好吗
+[{city: 辽阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 辽阳, conversation: isover, place: 辽阳, action: query, entry: 1, condition: [c_3]}]
+查辽阳明天的天气
+[{city: 辽阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 辽阳, conversation: isover, place: 辽阳, action: query, entry: 0, condition: [c_1]}]
+辽阳明天是晴天吗
+[{city: 辽阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 辽阳, conversation: isover, place: 辽阳, action: query, entry: 0, condition: [c_0]}]
+锦州今天的天气怎么样
+[{city: 锦州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 锦州, action: query, entry: 1, condition: [c_3]}]
+锦州今天温度
+[{city: 锦州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 锦州, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+锦州明天的天气好吗
+[{city: 锦州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 锦州, action: query, entry: 1, condition: [c_3]}]
+查锦州明天的天气
+[{city: 锦州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 锦州, action: query, entry: 1, condition: [c_3]}]
+锦州明天是晴天吗
+[{city: 锦州, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 锦州, action: query, entry: 0, condition: [c_0]}]
+葫芦岛今天的天气怎么样
+[{city: 葫芦岛, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 葫芦岛, action: query, entry: 1, condition: [c_3]}]
+葫芦岛今天温度
+[{city: 葫芦岛, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 葫芦岛, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+葫芦岛明天的天气好吗
+[{city: 葫芦岛, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 葫芦岛, action: query, entry: 1, condition: [c_3]}]
+查葫芦岛明天的天气
+[{city: 葫芦岛, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 葫芦岛, action: query, entry: 1, condition: [c_3]}]
+葫芦岛明天是晴天吗
+[{city: 葫芦岛, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 葫芦岛, action: query, entry: 0, condition: [c_0]}]
+营口今天的天气怎么样
+[{city: 营口, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 营口, action: query, entry: 1, condition: [c_3]}]
+营口今天温度
+[{city: 营口, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 营口, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+营口明天的天气好吗
+[{city: 营口, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 营口, action: query, entry: 1, condition: [c_3]}]
+查营口明天的天气
+[{city: 营口, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 营口, action: query, entry: 1, condition: [c_3]}]
+营口明天是晴天吗
+[{city: 营口, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 营口, action: query, entry: 0, condition: [c_0]}]
+丹东今天的天气怎么样
+[{city: 丹东, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 丹东, action: query, entry: 1, condition: [c_3]}]
+丹东今天温度
+[{city: 丹东, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 丹东, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+丹东明天的天气好吗
+[{city: 丹东, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 东明, conversation: isover, place: 东明, action: query, entry: 1, condition: [c_3]}]
+查丹东明天的天气
+[{city: 丹东, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 东明, conversation: isover, place: 东明, action: query, entry: 0, condition: [c_1]}]
+丹东明天是晴天吗
+[{city: 丹东, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 东明, conversation: isover, place: 东明, action: query, entry: 0, condition: [c_0]}]
+阜新今天的天气怎么样
+[{city: 阜新, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 阜新, action: query, entry: 1, condition: [c_3]}]
+阜新今天温度
+[{city: 阜新, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 阜新, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+阜新明天的天气好吗
+[{city: 阜新, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 阜新, action: query, entry: 1, condition: [c_3]}]
+查阜新明天的天气
+[{city: 阜新, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 阜新, action: query, entry: 1, condition: [c_3]}]
+阜新明天是晴天吗
+[{city: 阜新, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 阜新, action: query, entry: 0, condition: [c_0]}]
+朝阳今天的天气怎么样
+[{city: 朝阳, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 朝阳, conversation: isover, place: 朝阳, action: query, entry: 1, condition: [c_3]}]
+朝阳今天温度
+[{city: 朝阳, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 朝阳, conversation: isover, place: 朝阳, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+朝阳明天的天气好吗
+[{city: 朝阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 朝阳, conversation: isover, place: 朝阳, action: query, entry: 1, condition: [c_3]}]
+查朝阳明天的天气
+[{city: 朝阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 朝阳, conversation: isover, place: 朝阳, action: query, entry: 0, condition: [c_1]}]
+朝阳明天是晴天吗
+[{city: 朝阳, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 朝阳, conversation: isover, place: 朝阳, action: query, entry: 0, condition: [c_0]}]
+盘锦今天的天气怎么样
+[{city: 盘锦, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 盘锦, action: query, entry: 1, condition: [c_3]}]
+盘锦今天温度
+[{city: 盘锦, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 盘锦, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+盘锦明天的天气好吗
+[{city: 盘锦, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 盘锦, action: query, entry: 1, condition: [c_3]}]
+查盘锦明天的天气
+[{city: 盘锦, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 盘锦, action: query, entry: 1, condition: [c_3]}]
+盘锦明天是晴天吗
+[{city: 盘锦, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 盘锦, action: query, entry: 0, condition: [c_0]}]
+铁岭今天的天气怎么样
+[{city: 铁岭, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 铁岭, conversation: isover, place: 铁岭, action: query, entry: 1, condition: [c_3]}]
+铁岭今天温度
+[{city: 铁岭, confidence: 99.00990099009901, date: 2017126, domain: weather, county: 铁岭, conversation: isover, place: 铁岭, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+铁岭明天的天气好吗
+[{city: 铁岭, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 铁岭, conversation: isover, place: 铁岭, action: query, entry: 1, condition: [c_3]}]
+查铁岭明天的天气
+[{city: 铁岭, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 铁岭, conversation: isover, place: 铁岭, action: query, entry: 0, condition: [c_1]}]
+铁岭明天是晴天吗
+[{city: 铁岭, confidence: 99.00990099009901, date: 2017127, domain: weather, county: 铁岭, conversation: isover, place: 铁岭, action: query, entry: 0, condition: [c_0]}]
+本溪今天的天气怎么样
+[{city: 本溪, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 本溪, action: query, entry: 1, condition: [c_3]}]
+本溪今天温度
+[{city: 本溪, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017126, place: 本溪, action: query, entry: 0, condition: [c_0, c_1, c_2]}]
+本溪明天的天气好吗
+[{city: 本溪, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 本溪, action: query, entry: 1, condition: [c_3]}]
+查本溪明天的天气
+[{city: 本溪, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 本溪, action: query, entry: 1, condition: [c_3]}]
+本溪明天是晴天吗
+[{city: 本溪, confidence: 99.00990099009901, conversation: isover, domain: weather, date: 2017127, place: 本溪, action: query, entry: 0, condition: [c_0]}]
