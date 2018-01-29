@@ -46,13 +46,6 @@ for line in testdata.split("\n") :
             print value
             dict["city"+str(i)] = value
 
-with open("test1.txt", "a") as mjsn_file:
-    #mjsn_file.write(json.dumps(content, ensure_ascii=False) + "\n")
-    #for key,value in dict.items(): #无序
-    for key,value in sorted(dict.items()): #有序
-        mjsn_file.write(key + ":" + str(value) + "\n")
-        pass
-
 print json.dumps(dict, encoding='UTF-8', ensure_ascii=False)
 
     
